@@ -5,7 +5,6 @@ import Image from "./photo/gadag6.jpg"
 
 const skills = [
   {
-    skill: "HTML+CSS",
     level: "advanced",
     color: "#2662EA"
   },
@@ -58,7 +57,7 @@ function Avatar() {
 function Intro() {
   return (
     <div>
-      <h1>Jonas Schmedtmann</h1>
+      <h1>Anil Itagi</h1>
       <p>
         Full-stack web developer and teacher at Udemy. When not coding or
         preparing a course, I like to play board games, to cook (and eat), or to
