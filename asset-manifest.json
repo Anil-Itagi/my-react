@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-react/static/css/main.c3258e33.css",
+    "main.js": "/my-react/static/js/main.a05cc83a.js",
+    "static/media/gadag6.jpg": "/my-react/static/media/gadag6.1deeb309912ff6ed12db.jpg",
+    "index.html": "/my-react/index.html",
+    "main.c3258e33.css.map": "/my-react/static/css/main.c3258e33.css.map",
+    "main.a05cc83a.js.map": "/my-react/static/js/main.a05cc83a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3258e33.css",
+    "static/js/main.a05cc83a.js"
+  ]
+}
