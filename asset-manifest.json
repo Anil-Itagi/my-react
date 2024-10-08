@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/my-react/static/css/main.c3258e33.css",
-    "main.js": "/my-react/static/js/main.a05cc83a.js",
-    "static/media/gadag6.jpg": "/my-react/static/media/gadag6.1deeb309912ff6ed12db.jpg",
-    "index.html": "/my-react/index.html",
-    "main.c3258e33.css.map": "/my-react/static/css/main.c3258e33.css.map",
-    "main.a05cc83a.js.map": "/my-react/static/js/main.a05cc83a.js.map"
+    "main.css": "/useRuducer_Bank_acount_project/static/css/main.fc5c2c69.css",
+    "main.js": "/useRuducer_Bank_acount_project/static/js/main.b89823e8.js",
+    "index.html": "/useRuducer_Bank_acount_project/index.html",
+    "main.fc5c2c69.css.map": "/useRuducer_Bank_acount_project/static/css/main.fc5c2c69.css.map",
+    "main.b89823e8.js.map": "/useRuducer_Bank_acount_project/static/js/main.b89823e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3258e33.css",
-    "static/js/main.a05cc83a.js"
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.b89823e8.js"
   ]
 }
